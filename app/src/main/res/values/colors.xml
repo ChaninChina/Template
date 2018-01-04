@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#03a9f4</color>
+    <color name="colorPrimaryDark">#2196f3</color>
+    <color name="colorAccent">#2979ff</color>
+    <color name="colorPrimaryBack">#000000</color>
+    <color name="colorBackground">#ebe4e4</color>
+    <color name="navigationBarColor">#000000</color>
+    <color name="colorForeground">#b224f9</color>
+    <color name="textColorPrimary">#525252</color>
+    <color name="textColorPrimaryInverse">#ffffff</color>
+    <color name="textColorSecondary">#8a8a8a</color>
+    <color name="textColorSecondaryInverse">#e5e5e5</color>
+
+    <color name="toast_bg">#ffffff</color>
+    <color name="colorCard">#ffffff</color>
+
+    <color name="black_overlay">#66000000</color>
+</resources>

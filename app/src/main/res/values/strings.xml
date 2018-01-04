@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Template</string>
+    <string name="prompt_user_name">用户名</string>
+    <string name="prompt_password">密码</string>
+    <string name="action_sign_in">登 陆</string>
+    <string name="action_sign_in_short">登 陆</string>
+    <string name="error_invalid_user_name">用户名不能为空！</string>
+    <string name="error_invalid_password">密码不能为空！</string>
+    <string name="error_incorrect_password">密码不正确！</string>
+    <string name="error_field_required">不能为空！</string>
+    <string name="error_download_apk">下载失败</string>
+    <string name="tip_error_empty">数据异常\n您可以尝试以下操作：\n  1.检查网络设置；\n  2.稍后再试；\n  3.联系程序员；</string>
+</resources>

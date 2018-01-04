@@ -1,0 +1,9 @@
+package com.kxbyyk.chanin.template.base;
+
+
+/**
+ * Created by Chanin on 2017/6/14.
+ */
+public abstract class CommonFragment extends BaseFragment {
+
+}
